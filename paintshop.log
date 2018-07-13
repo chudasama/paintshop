@@ -1,0 +1,12 @@
+2018-07-07 20:24:02 INFO  DriverClass:47 - No solution exists
+2018-07-07 20:24:03 INFO  PaintShop:124 - G M G M G G G G G G
+2018-07-07 20:24:03 INFO  PaintShop:124 - M M
+2018-07-07 20:24:04 ERROR DriverClass:49 - com.hbc.tech.paintshop.exception.InvalidMatteChoiceException: Customer provided 2 choice for Matte Type
+2018-07-07 20:24:05 INFO  PaintShop:124 - M M
+2018-07-07 20:24:06 INFO  DriverClass:47 - No solution exists
+2018-07-07 20:24:06 INFO  PaintShop:124 - G G G G G
+2018-07-07 20:24:07 INFO  PaintShop:124 - G G G G M
+2018-07-07 20:24:08 INFO  PaintShop:124 - G M G M G
+2018-07-07 20:24:09 ERROR DriverClass:49 - com.hbc.tech.paintshop.exception.InvalidColorRangeException: Customer choice has invalid color range
+2018-07-07 20:24:10 ERROR DriverClass:49 - com.hbc.tech.paintshop.exception.MissingCustomerPreference: Customer preference not provided
+2018-07-07 20:25:14 INFO  DriverClass:31 - Please provide input file: USAGE java -jar jarName inputfileName
